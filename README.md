@@ -24,9 +24,11 @@ A remote properties file should be available in GitHub. Please see https://githu
 
 Usage Notes:
 
-Start services in the followingg order:
+Start services in the following order:
 
-1 - Configuration server 2 - Discovery server 3 - Profile Management server
+1 - Configuration server 
+2 - Discovery server 
+3 - Profile Management server
 
 A server can be started running the following command from the source directory. 
 For example, for the configuration file:
